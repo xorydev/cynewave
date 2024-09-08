@@ -1,0 +1,5 @@
+[stage_1]
+src_files = [ "./testfiles/src/file1.txt", "./testfiles/src/file2.txt", "./testfiles/src/a" ]
+target_dir = "./testfiles/dir"
+recursive = false
+
